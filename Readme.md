@@ -1,10 +1,11 @@
 # Hi, I'm Ido Gurevich 👋
 
-### Deep Learning Engineer · Algorithm Developer · Biomedical Engineering Researcher
+### Deep Learning Engineer · Algorithm Developer 
 
 ---
 
-I'm a deep learning engineer and algorithm developer with **3+ years of hands-on experience** designing neural networks for real-time applications, robotics, and signal processing. Currently completing my **M.Sc. in Biomedical Engineering** at Ben Gurion University (GPA: 95), where my research focuses on using deep learning to enhance surgeon performance in teleoperated robotic surgery.
+I'm a deep learning engineer and algorithm developer with **3+ years of hands-on experience** designing neural networks for real-time applications, robotics, and signal processing. Strong background in time-series modeling and **computer vision**. Experienced in leading end-to-end machine learning projects and collaborating across disciplines to
+solve complex challenges.
 
 ---
 
@@ -55,15 +56,6 @@ Led a 5-person team to build an end-to-end BCI system enabling ALS patients to c
 
 ### 🤖 Visuo-Haptic Robotic System
 Programmed two Phantom robotic arms in C++ with a closed-loop control system synchronizing haptic feedback with visual delays. Managed the full research lifecycle: protocol design, human subject data collection, and statistical analysis.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Idogur10&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idogur10&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
 
 ---
 
